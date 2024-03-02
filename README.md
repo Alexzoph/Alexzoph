@@ -8,6 +8,8 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning React
 - 💻 My favorite lang is JavaScript
 
+<br>
+
 <h2 align="center">🌱 My Skills</h2>
 
 <h4 align="center">💻 Programming languages (and html)</h4>
