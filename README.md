@@ -3,10 +3,10 @@
 </p>
 
 ________________________________________________________________________________________________
-- 👋 Hello, I am Alexander
-- 👀 I’m looking to learn much as possible
-- 🌱 I’m currently learning React
-- 💻 My favorite lang is JavaScript
+- 👋 `Hello, I am` **Alexander**
+- 👀 `I’m looking to:` learn **much** as possible
+- 🌱 `I’m currently learning:` **React**
+- 💻 `My favorite lang is:` **JavaScript**
 
 <br>
 
