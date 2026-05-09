@@ -2,12 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Alexzoph&color=yellow"/>
 </p>
 
-________________________________________________________________________________________________
-- 👋 `Hello, I am` **Alexander**
-- 👀 `I’m looking to:` learn **much** as possible
-- 🌱 `I’m currently learning:` **React**
-- 💻 `My favorite lang is:` **JavaScript**
-
 <br>
 
 <h2 align="center">🌱 My Skills</h2>
